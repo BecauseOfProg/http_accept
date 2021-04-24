@@ -1,0 +1,9 @@
+name: http_accept
+version: 0.1.0
+
+authors:
+  - Nicolas Martinussen <me@whaxion.be>
+
+crystal: 1.0.0
+
+license: MIT
